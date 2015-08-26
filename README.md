@@ -1,1 +1,2 @@
-# ctynik.github.io
+“Lucas, su hipermedia” es un recurso hipermedia que está referenciado con la obra de Julio Cortázar, “Un tal Lucas”.
+El proyecto fue desarrollado durante el año 2014 por estudiantes de 4to año de la Escuela Nacional Ernesto Sábato junto a los docentes, Dominique Moreno, de Lengua y Literatura y César Tynik, de Tecnología. La experiencia se inscribió en el marco del Programa Universo en las Artes y las Letras de la Secretaría de Extensión de la Unicen.
