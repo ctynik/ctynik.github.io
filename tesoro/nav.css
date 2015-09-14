@@ -7,7 +7,7 @@ Modified by eXeLearning.net
 body{padding:15px 20px}
 #content{width:100%;position:relative;padding-bottom:10px;min-width:965px}
 #main-wrapper{padding:20px 20px 0 20px;background:none}
-#main{width:50%;padding:0}
+#main{width:100%;padding:0}
 #content{padding-bottom:21px}
 #header,#emptyHeader{border-top:none;background:#fff;display:none}
 #nodeDecoration{padding:0;margin:0;background:none;border:none;display:none}
