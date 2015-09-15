@@ -19,7 +19,7 @@ a:hover,a:focus{color:#3C5866}
 h3{font-size:1.25em;color:#666}
 #main h4{font-size:1.2em}
 #main h5{font-size:1.1em}
-.iDevice,.readingIdevice .iDevice{margin:2em 0;padding:10px;background:#B1C0C7;border-radius:5px;border:1px solid #3C5866}
+.iDevice,.readingIdevice .iDevice{padding:10px;background:#B1C0C7;border-radius:5px;border:1px solid #3C5866}
 .emphasis0{padding:0;background:none;border:none}
 /* iDevice icons */
 .iDevice_icon{height:48px;width:auto;margin-right:8px}
